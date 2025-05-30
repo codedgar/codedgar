@@ -1,33 +1,46 @@
-   ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)   
-# Welcome, name's **Codedgar** (:computer::dark_sunglasses: :smirk_cat:)
-Hi, My name's **Edgar Perez**. And my job is to create **stunning looking websites** and **web applications**.
+# 🎨 Edgar Pérez — Web & Aesthetic Systems  
+Hi, I'm Edgar! A Frontend Tech Lead with 7+ years crafting scalable interfaces and leading teams to build systems that are not only functional, but beautiful and enduring.
+
+## 🧠 About Me  
+I'm a frontend leader and design systems specialist working at the intersection of design, code, and team culture. My focus is on architectural decisions, visual excellence, and building systems that empower both users and developers, creating foundations that scale with elegance and intention.
 
 
-## _I'm a Frontend Developer with more than 5 years of experience in:_
-- :globe_with_meridians: HTML.
--  :art: CSS.
-- :gear: JavaScript.
-- :large_blue_circle: Wordpress.
-- :red_circle: Laravel.
+## 🚀 Leadership & Mentorship
+I believe leadership is not just about direction, it’s about elevating all team members. I aim to cultivate environments where craft, clarity, and collaboration thrive.
 
-## _Focused on:_
-- :trophy: Web Design.
-- :rocket: Fast Loading websites and apps.
-- :closed_book: Learning new technologies.
-- :smirk_cat: Making the web better.
+-   **Frontend Architecture**: Shape scalable, maintainable systems and define standards that balance aesthetics with performance.
+-   **Mentorship**: Guide junior and mid-level developers with a focus on design fluency, system thinking, and long-term growth.
+-   **Bridge Between Design & Engineering**: Act as a connective tissue between disciplines, enabling fluid collaboration and aligned vision.
+-   **Knowledge Sharing**: Lead by example through thoughtful code reviews, internal workshops, and open documentation.
 
-## _Languages_
-- :es: Spanish (_Native_)
-- :us: English (_Conversational_)
 
-## Stats
+## 💡 What I Work With  
+-   HTML • CSS/Sass • JavaScript • TypeScript
+-   React • Vue • Design Systems • Component Libraries
+-   WordPress (Custom) • Laravel • Node.js
+-   Figma • ShadCN • Tailwind • Storybook
 
-![Codedgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codedgar&show_icons=true&theme=radical)
+### 🔍 Focus Areas  
+-   Frontend Architecture & Scalable UI Systems
+-   Performance optimization and core web vitals
+-   Design-to-code workflow optimization
+-   Advanced CSS & design fidelity  
+-   Building tools and processes that empower creative teams
+-   Elevating the web as a medium for meaningful experiences
 
-## _Creator of_
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=codedgar&repo=puppertino&theme=radical)](https://github.com/codedgar/puppertino)
+### 🗣 Languages  
+- 🇪🇸 Spanish (Native)  
+- 🇬🇧 English (C1 - Fluent Professional)
 
-## Connect with me
+---
+🌱 Creator of [Puppertino](https://github.com/codedgar/puppertino)  
+A CSS framework inspired by Apple’s Human Interface Guidelines.  
+> Used by thousands — focuses on consistency, clarity, and human-centered interaction.
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codedgar/) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](//dev.to/codedgar) [![Twitter](https://img.shields.io/badge/Codedgar_Dev-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](//twitter.com/codedgar_dev) [![enter image description here](https://img.shields.io/github/followers/codedgar?style=for-the-badge)](//github.com/codedgar)
+### 📎 Connect with Me  
+[LinkedIn](https://www.linkedin.com/in/codedgar/) | [Dev.to](//dev.to/codedgar) | [codedgar.com](https://codedgar.com)
 
+---
+
+_"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs_  
