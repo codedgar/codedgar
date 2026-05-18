@@ -1,8 +1,8 @@
-# Edgar Pérez | Frontend Tech Lead & Design Engineer
+# Edgar Pérez | Frontend Design Engineer & Tech Lead
 
 10+ years building for the web. Most of that time I've been doing one thing: finding why frontend teams get stuck, and fixing it structurally.
 
-I sit between what the business needs and what developers can actually build. I look at the system, find the parts that aren't carrying their weight, and rebuild them so the team can ship without burning out.
+I work between what the business needs and what developers can actually build. I look at the system, find the parts that aren't carrying their weight, and rebuild them so the team can ship without burning out.
 
 Most frontend problems don't get solved by pushing harder. They get solved structurally. That's the work I do.
 
@@ -23,9 +23,11 @@ Most frontend problems don't get solved by pushing harder. They get solved struc
 
 ## `// section.work ███`
 
-I lead frontend teams and own design systems end to end. Strongest in Angular, CSS, and the architecture work that keeps a codebase from turning into a house of cards. A good system isn't sealed shut. It lets you add new components and features without breaking what's already there.
+I lead frontend teams and own design systems end to end. Strongest in CSS architecture and the work that keeps a codebase from turning into a house of cards. Ship production in Angular, WordPress, and Astro. A good system isn't sealed shut. It lets you add new components and features without breaking what's already there.
 
 **Puppertino: six years in, still shipping.** A CSS framework inspired by Apple's Human Interface Guidelines. 10 component systems, the full Apple color palette, zero dependencies. Opinionated by design: fixed spacing scale, curated palette, macOS look out of the box. Used by 5,000+ developers.
+
+**Glassworks: liquid glass on web.** A fork of LiquidGL rewritten on Snapdom. The original couldn't ship on the elements we needed at work, the upstream PR didn't make it, so I forked it and rebuilt it the way it had to be.
 
 **A multi-tenant platform serving 100+ clients.** The codebase fragmented every time we onboarded a new client. I moved the personalization layer into a runtime API so the architecture stopped multiplying, and we shipped 50 site compilations in a single night. The business could finally scale to the number of clients sales was selling.
 
@@ -33,7 +35,7 @@ I lead frontend teams and own design systems end to end. Strongest in Angular, C
 
 ## `// section.leadership ▲▲▲`
 
-Leadership it's elevating the people around you. I run a lot of one-on-ones, ask devs what the boring repetitive stuff is, and build systems around those answers. A CEO once called me *"the coach of his developers, and the organizer."*
+Leadership is elevating the people around you. I run a lot of one-on-ones, ask devs what the boring repetitive stuff is, and build systems around those answers. A CEO once called me *"the coach of his developers, and the organizer."*
 
 The mentorship part is what I care about most. Juniors and interns I worked with have grown into senior roles at companies they wouldn't have considered applying to two years earlier.
 
@@ -49,7 +51,7 @@ SEO is the one most frontend leads don't touch. I do. It's a structural problem,
 
 ## `// section.stack ▤▤▤`
 
-HTML, CSS/Sass, JavaScript, TypeScript, Angular, React, Vue, design systems, design tokens, GSAP, WordPress (custom), Laravel, Node.js, Figma, Storybook.
+HTML, CSS/Sass, JavaScript, TypeScript, Angular, React, Vue, Astro, design systems, design tokens, GSAP, WordPress (custom), Laravel, Node.js, Figma, Storybook.
 
 CSS isn't hard. People just reach for solutions from 10 years ago and get frustrated when they don't fit.
 
@@ -57,7 +59,7 @@ CSS isn't hard. People just reach for solutions from 10 years ago and get frustr
 
 Spanish (native), English (C1, fluent professional). Started in Venezuela where I learned to build under real constraints. Then Colombia. Now Buenos Aires.
 
-**Currently targeting: Frontend Tech Lead, fully remote.** Also open to Design Engineer and Product Engineer roles where architecture and team leverage matter.
+**Looking for: Design Engineer or Frontend Tech Lead roles, fully remote.** Most interested in teams that care what their product feels like, not just what it does.
 
 ## `// section.contact ▶▶▶`
 
