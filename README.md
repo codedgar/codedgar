@@ -1,4 +1,4 @@
-# Edgar Pérez | Frontend Design Engineer & Tech Lead
+# Edgar Pérez | Frontend Tech Lead & Design Engineer
 
 10+ years building for the web. Most of that time I've been doing one thing: finding why frontend teams get stuck, and fixing it structurally.
 
